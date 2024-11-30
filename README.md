@@ -1,4 +1,4 @@
-# Advanced Intrusion Detection System with AI
+# Advanced Intrusion Detection System with AI 
 
 ## Project Overview
 
