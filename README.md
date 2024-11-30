@@ -98,8 +98,8 @@ python train_model.py --dataset NSL-KDD
 
 ## Research and References
 
-- Original NSL-KDD Paper: [Link to Paper] https://www.researchgate.net/figure/The-41-features-of-NSL-KDD-dataset_tbl1_287302551
-- Comprehensive Survey on Intrusion Detection: [Link to Survey] https://www.sciencedirect.com/science/article/pii/S1877705812021613
+- Original NSL-KDD Paper:  https://www.researchgate.net/figure/The-41-features-of-NSL-KDD-dataset_tbl1_287302551
+- Comprehensive Survey on Intrusion Detection:  https://www.sciencedirect.com/science/article/pii/S1877705812021613
 
 
 ## Contact
